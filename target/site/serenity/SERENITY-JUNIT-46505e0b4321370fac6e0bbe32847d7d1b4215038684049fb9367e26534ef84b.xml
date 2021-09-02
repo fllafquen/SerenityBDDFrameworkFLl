@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="testcases.LoginTest" skipped="0" tests="1" time="5.42" timestamp="2021-09-01 05:35:34"><testcase classname="testcases.LoginTest" name="Default Web URL loading from webdriver.base.url set in serenity.properties file."/></testsuite>

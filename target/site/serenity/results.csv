@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login test","Default Web URL loading from webdriver.base.url set in serenity.properties file.","SUCCESS","2021-09-01T17:35:34.12-04:00[America/Santiago]","0.0","5.42"
